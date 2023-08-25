@@ -4,7 +4,7 @@
     
 - 👋 Hi, I’m James Dinh (@jamesdinh12)
 - 👀 I’m interested in Software Programming and App Development
-- 🌱 I’m currently learning more programming languages and the Linux environment
+- 🌱 I’m currently learning full-stack integration, cloud technology, ML and AI.
 - 💞️ I’m looking to collaborate on Hackathon projects and other App ideas!
 
 <!---
